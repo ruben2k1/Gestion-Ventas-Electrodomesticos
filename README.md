@@ -1,3 +1,4 @@
+# Descripción
 Aplicación dedicada a gestionar ventas de electrodomésticos
 # Características
 El usuario podrá:
